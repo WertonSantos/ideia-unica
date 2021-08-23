@@ -1,0 +1,11 @@
+### criar o arquivo aceitando todas a opç~poes padrões
+npm init -y
+
+### instalar a dependência do next.js
+npm install next
+
+### instalar o react
+npm install react
+
+### intalar o react-dom
+npm install react-dom
